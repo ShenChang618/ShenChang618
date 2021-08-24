@@ -19,7 +19,7 @@
 Hi, my name is Chang Shen, I am a developer from China.
   
 **About me:**
-- 👨 I’m currently working on [Gome](https://www.gome.com.cn/).
+- 👨 I’m currently working on [Servyou](https://www.servyou.com.cn/).
 - 🤖 I'm developing a react framework.
 - 💬 Ask me about anything, I am happy to help.
 
