@@ -1,4 +1,4 @@
-### Hey 👋🏼, I'm [Chang Shen](https://github.com/ShenChang618) 
+### Hey 👋🏼, I'm [Shen Chang](https://github.com/ShenChang618) 
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, my name is Chang Shen, I am a developer from China.
+Hi, my name is Shen Chang, I am a developer from China.
   
 **About me:**
 - 👨 I’m currently working on [Servyou](https://www.servyou.com.cn/).
